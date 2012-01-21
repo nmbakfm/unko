@@ -1,0 +1,5 @@
+Usage
+===========
+
+sudo ./install
+unko
