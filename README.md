@@ -1,10 +1,9 @@
 Usage
 ===========
 
+```
 $ sudo ./install
-
 $ unko
-
 
                    人
                   ﾉ  ﾉ
@@ -23,4 +22,4 @@ $ unko
      U       U  N   N   N  K K      O     O
      U       U  N     N N  K   K    O     O
       U U U U   N       N  K     K  O O O O
-
+```
