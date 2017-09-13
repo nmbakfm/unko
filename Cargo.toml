@@ -1,0 +1,6 @@
+[package]
+name = "unko-tmp"
+version = "0.1.0"
+authors = ["k-masatany <masatani@fusic.co.jp>"]
+
+[dependencies]
