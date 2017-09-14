@@ -1,1 +1,2 @@
-cp ./unko /usr/bin/unko
+chmod +x ./unko
+cp ./unko /usr/local/bin/unko
